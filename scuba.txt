@@ -1,0 +1,36 @@
+Scuba diving
+
+Scuba diving is a type of underwater diving whereby divers use breathing equipment that is completely independent of a surface air supply.
+
+Scuba skills
+Scuba skills are skills required to dive safely using self-contained underwater breathing apparatus (scuba set). Most of these skills are relevant to both open-circuit scuba and rebreather scuba, and many are also relevant to surface-supplied diving. Certain scuba skills, which are critical to divers' safety, may require more practice than is provided during standard recreational training.
+
+
+Emergency procedures
+Loss of breathing gas
+The diver has a limited ability to survive without breathing gas. Any interruption constitutes a life-threatening emergency. The diver must be prepared to cope with any reasonably foreseeable loss. Temporary interruptions due to flooding or dislodging the demand valve are addressed by recovery and clearing of the demand valve. More extensive interruptions require other skills. Ending the dive with an emergency ascent is appropriate in some circumstances. Other solutions involve accessing an alternative gas supply, either from an alternative source carried by the diver, or from another diver.
+
+Emergency air sharing
+See also: Buddy breathing
+Emergency air sharing may involve sharing a single demand valve, or one diver providing a secondary air source to another. The gas may be from the same scuba set or from a separate cylinder.[1] The preferred technique of air sharing is donation of a demand valve that is not needed by the donor.
+Navigation
+Main article: Diver navigation
+
+Nav finder and underwater compass - basic underwater navigation tools.
+
+Suunto SK-7 diving compass in aftermarket wrist mount with bungee straps
+The two basic aspects of navigation are surface navigation to find the dive site, and underwater navigation, to find specific places underwater and to reach the fascent point.
+
+Rebreather
+See also: Rebreather diving
+
+Pre-dive leak checks on rebreathers
+Preparing the rebreather: Parts of the rebreather may require assembly before use, after which it must be tested for correct function. The scrubber canister must be filled with the correct amount of absorbent material. Positive and negative pressure tests are typically conducted. The positive pressure test ensures that the unit does not lose gas while in use, and the negative pressure test ensures that water does not leak into the breathing loop where it can degrade the scrubber medium or the oxygen sensors.
+
+Dive management skills
+Monitoring depth and time
+Whenever a dive may require decompression stops, it is necessary to monitor dive depth and duration to ensure that appropriate decompression procedures are followed if necessary. This process may be automated via a dive computer, in which case the diver must understand how to read the output and respond correctly to the information displayed, and for more complex dive plans, to input the appropriate settings. The display and operation of dive computers is not standardised, so the user must learn to operate the specific model of computer. Accurate monitoring of depth and time is particularly important when diving using a schedule requiring decompression according to decompression tables, when a diving watch and depth gauge are used
+
+Professional diver training
+Further information: Professional diving § Training and registration, List of diver certification organizations § Commercial diver training and registration authorities, and List of diver certification organizations § Scientific diving certification agencies
+Professional diver training is typically provided by schools affiliated to or approved by one or more commercial, scientific or other professional diver certification or registration organisations [9][10][3] Professional diver training standards require significantly higher skill level than recreational certification. The professional diver is expected to manage most contingencies and still perform the planned work under difficult conditions. Professional training may include confidence training or stress training, where simulated emergencies are enacted, or unlikely contingencies are simulated, to develop the diver's confidence in their ability to safely manage contingencies. The amount of time spent on skill and confidence development is generally proportional to the length of the training programme, as basic skills are usually learned fairly quickly
